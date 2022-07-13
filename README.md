@@ -17,4 +17,4 @@ image_classification.py
 stop_model.py
 ```
 
-[Blog](https://medium.com/@ram-vegiraju/amazon-rekognition-custom-labels-7b7f46dad02e)
+## [Blog](https://medium.com/@ram-vegiraju/amazon-rekognition-custom-labels-7b7f46dad02e)
